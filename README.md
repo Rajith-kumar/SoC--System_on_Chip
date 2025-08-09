@@ -6,7 +6,7 @@ This repository provides a **professional, high-level description** of a custom 
 ---
 
 ## ⚙️ SoC Architecture (Public Summary)
-- **Core**: Custom-designed pipelined RISC-V-based processor with extendable ISA for application-specific acceleration.
+- **Core**: Custom-designed Tiny Risc pipelined RISC-V-based processor with extendable ISA for application-specific acceleration.
 - **Peripherals**: UART, SPI, Timers, GPIO, SPI Flash Loader.
 - **Bus Architecture**: APB3-based integration for modular IP communication.
 - **Memory**: On-chip Block RAM and external SPI Flash for program storage and loading.
