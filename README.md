@@ -10,7 +10,7 @@ This repository provides a **professional, high-level description** of a custom 
 - **Peripherals**: UART, SPI, Timers, GPIO, SPI Flash Loader.
 - **Bus Architecture**: APB3-based integration for modular IP communication.
 - **Memory**: On-chip Block RAM and external SPI Flash for program storage and loading.
-- **Target Platform**: Artix-7 FPGA for prototyping.
+- **Target Platform**: Nexys 4 FPGA for prototyping.
 
 ---
 
