@@ -32,7 +32,7 @@ This repository provides a **professional, high-level description** of a custom 
 ## 🛠️ Tools & Technologies
 - **HDL**: Verilog
 - **Tools**: Xilinx Vivado, ModelSim, Git, Python, C
-- **Platform**: Artix-7 FPGA
+- **Platform**: Nexys4 FPGA
 
 ---
 
