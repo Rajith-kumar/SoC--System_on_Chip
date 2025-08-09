@@ -29,7 +29,7 @@ This repository provides a **professional, high-level description** of a custom 
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Related Tools & Technologies
 - **HDL**: Verilog
 - **Tools**: Xilinx Vivado,Git, Python, C
 - **Platform**: Nexys4 FPGA
