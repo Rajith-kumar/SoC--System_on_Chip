@@ -1,9 +1,5 @@
-# Tiny_Risc_Processor
-This processor used in the SoC  
-
-
 # Confidential SoC Development (Public Summary)
-
+System on Chip
 ## 📌 Overview
 This repository provides a **professional, high-level description** of a custom System-on-Chip (SoC) project developed during a research internship at IIT Patna. All sensitive code and proprietary design details are excluded, but the summary showcases the scope, technical depth, and innovation behind the work — useful for potential collaborators and recruiters.
 
